@@ -1,1 +1,2 @@
 Some configurations that were checked in for git
+Making some changes to my local config.txt
