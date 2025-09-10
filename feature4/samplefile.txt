@@ -1,1 +1,2 @@
-Sample file for feature4
+Sample file for feature4 - making changes
+dependency needed to finish the feature
